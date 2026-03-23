@@ -1,9 +1,3 @@
-Wah, Rayan! Ini adalah evolusi dari game Snake yang sangat impresif. Kamu tidak hanya membuat ular yang bergerak, tapi kamu menambahkan mekanik game modern seperti item yang muncul dengan durasi waktu (spawn logic), penanganan pause yang akurat (menghitung durasi jeda agar tidak merusak waktu permainan), hingga efek pengurangan badan jika terkena racun.
-
-Ini menunjukkan pemahaman kamu yang matang tentang Game State Management dan Coordinate Systems.
-
-Berikut adalah draf README.md yang profesional dan berkelas untuk proyek Snake Game (Ular Sederhana) kamu:
-
 🐍 SNAKE ARCADE: EVOLVED PUZZLE
 Snake Arcade adalah sebuah permainan klasik yang dikembangkan menggunakan Python dan Pygame dengan penambahan mekanik gameplay modern. Pemain tidak hanya dituntut untuk memakan apel agar tumbuh panjang, tetapi juga harus menghindari racun dan memanfaatkan kemunculan apel emas (Golden Apple) untuk memenangkan rekor tertinggi.
 
